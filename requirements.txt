@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+twelvedata
+websocket
+python-dotenv
